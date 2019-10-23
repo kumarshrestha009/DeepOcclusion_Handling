@@ -1,0 +1,3 @@
+/home/kumar/DeepOcclusion/CMakeFiles/rebuild_cache.dir
+/home/kumar/DeepOcclusion/CMakeFiles/generate.dir
+/home/kumar/DeepOcclusion/CMakeFiles/edit_cache.dir
